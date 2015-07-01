@@ -30,5 +30,4 @@ function draw() {
 		}
 	};
 setInterval(draw, 90)
-
 };
